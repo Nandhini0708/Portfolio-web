@@ -30,3 +30,5 @@ We'll be using the following technologies to build this portfolio website:
 
 * Conclusion
   That's it! With these instructions, you should be able to get started with your own front-end   portfolio project. Good luck and happy coding!
+  ### Final outlook of Webpage:
+  
