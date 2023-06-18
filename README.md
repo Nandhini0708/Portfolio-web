@@ -29,6 +29,6 @@ We'll be using the following technologies to build this portfolio website:
 * From there, you can start modifying the HTML, CSS, and JavaScript files to customize the       website to your liking.
 
 * Conclusion
-  That's it! With these instructions, you should be able to get started with your own front-end   portfolio project. Good luck and happy coding!
-  ### Final outlook of Webpage:
-  
+  That's it! With these instructions, you should be able to get started with your own front-end   portfolio project. Good luck and happy coding!    
+ ### Final outlook of Webpage:
+   https://nandhini0708.github.io/Portfolio-web/
